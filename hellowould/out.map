@@ -1,0 +1,8 @@
+# compiler: R8
+# compiler_version: 1.4.94
+# min_api: 1
+dohieu.com.helowould.BuildConfig -> dohieu.com.helowould.BuildConfig:
+    1:1:void <init>():6:6 -> <init>
+dohieu.com.helowould.Hello -> dohieu.com.helowould.Hello:
+    1:1:void <init>():7:7 -> <init>
+    1:2:void onCreate(android.os.Bundle):11:12 -> onCreate
